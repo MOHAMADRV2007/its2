@@ -2,7 +2,7 @@
   "name": "peertube",
   "description": "PeerTube, an ActivityPub-federated video streaming platform using P2P directly in your web browser.",
   "version": "4.1.1",
-  "private": true,
+  "private": false,
   "licence": "AGPL-3.0",
   "engines": {
     "node": ">=12.x",
@@ -12,13 +12,13 @@
     "peertube": "dist/server/tools/peertube.js"
   },
   "author": {
-    "name": "Chocobozzz",
-    "email": "chocobozzz@framasoft.org",
-    "url": "http://github.com/Chocobozzz"
+    "name": "MOHAMADRV2007",
+    "email": "MOHAMADRV2007@gmail.com",
+    "url": "http://github.com/MOHAMADRV2007"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chocobozzz/PeerTube.git"
+    "url": "git+https://github.com/MOHAMADRV2007/its2.git"
   },
   "typings": "*.d.ts",
   "scripts": {
